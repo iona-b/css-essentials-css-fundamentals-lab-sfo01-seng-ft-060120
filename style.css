@@ -33,3 +33,6 @@ figcaption {
   display: block;
 }
 
+#details div {
+  background-color: blue
+}
