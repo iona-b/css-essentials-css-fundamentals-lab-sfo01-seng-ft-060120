@@ -11,8 +11,11 @@ body {
     text-align: center;
 }
 
-nav {
+a {
   padding: 10px;
   background-color: #add8e6;
+}
+
+nav {
   text-align: center;
 }
