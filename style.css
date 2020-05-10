@@ -28,7 +28,7 @@ figcaption {
 #featured-property p {
   width: 800px;
   text-align: center;
-  float: inherit;
+  float: left;
 }
 
 #details {
